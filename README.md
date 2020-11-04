@@ -1,4 +1,5 @@
 # Tripcarte-HR React-Admin
+<img src="https://github.com/gispatial/tripcarte-fintech/blob/master/examples/demo/public/Screen%20Shot%202020-11-04%20at%205.24.00%20PM.png" width="100%">
 
 A frontend Framework for building data-driven applications running in the browser on top of REST/GraphQL APIs, using ES6, and NodeJs --NestJs
 
