@@ -1,0 +1,15 @@
+export default () => [
+    { id: 0, name: 'Destinasi Utama' },
+    { id: 1, name: 'Tawaran Istimewa' },
+    { id: 2, name: 'Pelancungan Terbaik' },
+    { id: 3, name: 'Pakej Terbaru' },
+    { id: 4, name: 'Edisi Khas: Malaysia' },
+    { id: 5, name: 'Cadangan Hujung Minggu' },
+    { id: 6, name: 'Untuk Keluarga' },
+    { id: 7, name: 'Cadangan Romantik' },
+    { id: 8, name: 'Tahun Melawat Malaysia 2020' },
+    { id: 9, name: 'Aktiviti Luar' },
+    { id: 10, name: 'Blog Terkini' },
+    { id: 11, name: 'Pelancungan' },
+    { id: 12, name: 'Berita Terkini' },
+];
